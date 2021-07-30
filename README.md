@@ -2,7 +2,7 @@
 
 ## [Project 1: Master's Thesis](https://github.com/ds-mathias/thesis)
 
-This project was sponsored industrially by ABSL-EnergySys, a satellite manufacturer. The aim of the project was to perform shape optimisation on ABSL's Li-Ion satellite battery structure through combining data science and engineering methods. This project report (click header link to view) has the following report structure:
+This project was sponsored industrially by ABSL-EnergySys, a satellite manufacturer. The aim of the project was to perform shape optimisation on ABSL's Li-Ion satellite battery structure through combining data science and engineering methods to improve the vibrational characteristics at rocket launch. This project report (click header link to view) has the following report structure:
 - Chapter 1: Introduction and motivation
 - Chapter 2: Literature review of metamodelling and optimisation techniques
 - Chapter 3: Engineering analysis software used
