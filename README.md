@@ -12,6 +12,8 @@ This project was sponsored industrially by ABSL-EnergySys. The aim of the projec
 - Chapter 6: Baseline battery optimisation
 - Chapter 7: Conclusions
 
+![](https://github.com/ds-mathias/Data-Portfolio/blob/main/images/FNF_.JPG)
+
 Grade Achieved: 1st Class (81%)
 
 Awards: IMechE Best Project Certificate
