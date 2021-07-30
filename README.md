@@ -12,7 +12,7 @@ This project was sponsored industrially by ABSL-EnergySys. The aim of the projec
 - Chapter 6: Baseline battery optimisation
 - Chapter 7: Conclusions
 
-![](https://github.com/ds-mathias/Data-Portfolio/blob/main/images/FNF_.JPG)
+![](/images/FNF_.JPG)
 
 Grade Achieved: 1st Class (81%)
 
@@ -24,4 +24,4 @@ Through this IBM certificated course I enhanced my skills with Python for data w
 - Pandas, Numpy and Scipy libraries to load, manipulate, analyse and visualise large datasets for housing data
 - Machine learning regression algorithms using the scikit-learn library to predict housing data
 
-![](https://github.com/ds-mathias/Data-Portfolio/blob/main/images/plots.JPG)
+![](/images/plots.JPG)
