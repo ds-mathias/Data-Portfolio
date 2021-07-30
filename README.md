@@ -23,3 +23,5 @@ Awards: IMechE Best Project Certificate
 Through this IBM certificated course I enhanced my skills with Python for data wrangling, exploratory data analytics, model development and model evaluation. During the project (click header to view) I applied:
 - Pandas, Numpy and Scipy libraries to load, manipulate, analyse and visualise large datasets for housing data
 - Machine learning regression algorithms using the scikit-learn library to predict housing data
+
+![](https://github.com/ds-mathias/Data-Portfolio/blob/main/images/plots.JPG)
