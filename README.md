@@ -1,5 +1,4 @@
-# Data Portfolio - Mathias D'souza
-Summary of work/learning related to data science and analytics
+# Mathias D'souza
 
 ## [Project 1: Master's Thesis](https://github.com/ds-mathias/thesis)
 
