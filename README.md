@@ -26,3 +26,5 @@ Through this IBM certificated course I enhanced my skills with Python for data w
 - Machine learning regression algorithms using the scikit-learn library to predict housing data
 
 ![](/images/plots.JPG)
+
+Viewable certificate: https://www.coursera.org/account/accomplishments/certificate/R32PU8KKTWBN
