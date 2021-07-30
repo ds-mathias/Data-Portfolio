@@ -3,14 +3,19 @@ Summary of work related to data science and analytics
 
 ## [Project 1: Master's Thesis](https://github.com/ds-mathias/thesis)
 
-Shape Optimisation of a Li-Ion Satellite Battery Structure and Mass-Spring-Damper (Industrially sponsored by ABSL-EnergySys):
-- Chapter 1: Introduction
-- Chapter 2: Literature Review
-- Chapter 3: Abaqus and iSight Setup (Engineering Analysis Software)
-- Chapter 4: Principal Component Analysis
-- Chapter 5: Detailed DOE and Optimisation (Radial Basis Function and Optimisation)
-- Chapter 6: Baseline Battery Optimisation
+This project was sponsored industrially by ABSL-EnergySys. The aim of the project was to perform shape optimisation of ABSL's Li-Ion satellite battery structure through combining data science and engineering methods. This project report (click header link to view) has the following report structure:
+- Chapter 1: Introduction and motivation
+- Chapter 2: Literature review of metamodelling and optimisation techniques
+- Chapter 3: Engineering analysis software used
+- Chapter 4: Principal component analysis
+- Chapter 5: RBF neural network and optimisation
+- Chapter 6: Baseline battery optimisation
 - Chapter 7: Conclusions
+
+Grade Achieved: 1st Class (81%)
+
+Awards: IMechE Best Project Certificate
+
 
 ## Project 2: Data Analysis with Python
 Through this IBM certificated course I enhanced my skills with Python for data wrangling, exploratory data analytics, model development and model evaluation. I applied:
