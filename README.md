@@ -27,4 +27,3 @@ Through this IBM certificated course I enhanced my skills with Python for data w
 
 ![](/images/plots.JPG)
 
-Viewable certificate: https://www.coursera.org/account/accomplishments/certificate/R32PU8KKTWBN
