@@ -2,6 +2,7 @@
 Summary of work related to data science and analytics
 
 [Project 1: Master's Thesis](https://github.com/ds-mathias/thesis)
+
 Shape Optimisation of a Li-Ion Satellite Battery Structure and Mass-Spring-Damper (Industrially sponsored by ABSL-EnerySys):
 - Chapter 1: Introduction
 - Chapter 2: Literature Review
