@@ -13,7 +13,7 @@ This project was sponsored industrially by ABSL-EnergySys, a satellite manufactu
 
 ![](/images/FNF_.JPG)
 
-Key outcome: Improved the structural vibrational frequency by 18.12%, improving the survivability during rocket launch.
+Key outcome: Improved the structural vibrational frequency by 18.12%, increasing the structure's survivability during rocket launch.
 
 Grade Achieved: 1st Class (81%)
 
